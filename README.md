@@ -13,12 +13,12 @@
 
 
 ### 学习笔记
-*Javase
-*javaweb
-*spring
-*springmvc
-*mybatis
-*mybatisplus
+* Javase
+* javaweb
+* spring
+* springmvc
+* mybatis
+* mybatisplus
 
 ### 我的项目
 
