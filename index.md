@@ -13,12 +13,12 @@
 
 
 ### 学习笔记
-* Javase
-* javaweb
-* spring
-* springmvc
-* mybatis
-* mybatisplus
+* Javase (https://github.com/shnlili123/note)
+* javaweb (https://github.com/shnlili123/note)
+* spring (https://github.com/shnlili123/note)
+* springmvc (https://github.com/shnlili123/note)
+* mybatis (https://github.com/shnlili123/note)
+* mybatisplus (https://github.com/shnlili123/note)
 
 ### 我的项目
 
