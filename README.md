@@ -9,7 +9,7 @@
 * 手机号码 : 18731287187  
 * 电子邮箱 : 945405020@qq.com
 * 个人主页 : [https://shnlili123.github.io/shn.github.io/](https://shnlili123.github.io/shn.github.io/)
-* Github 地址 : [https://github.com/Freshmansolo](https://github.com/shnlili123)
+* Github 地址 : [https://github.com/shnlili123](https://github.com/shnlili123)
 
 
 ### 学习笔记
