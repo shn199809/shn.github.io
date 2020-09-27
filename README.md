@@ -1,4 +1,4 @@
-## Welcome to Jane's GitHub Pages
+## 欢迎
 
 ## [博客园](https://www.cnblogs.com/)
 
@@ -22,4 +22,4 @@
 
 ### 我的项目
 
-* 基于SSM框架的员工管理系统()
+* 基于SSM框架的员工管理系统(https://github.com/shnlili123/SSMSTAFF/tree/master#readme)
