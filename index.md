@@ -11,6 +11,14 @@
 * 个人主页 : [https://shnlili123.github.io/shn.github.io/](https://shnlili123.github.io/shn.github.io/)
 * Github 地址 : [https://github.com/shnlili123](https://github.com/shnlili123)
 
+### 求职意向：java开发工程师
+
+### 专业技能：
+* 熟练的使用java语言进行开发
+* 熟悉mysql数据库
+* 熟悉ajax、jquery、JavaScript等技术
+* 熟悉spring、springMVC、Mybatis、MybatisPlus等主流框架
+
 
 ### 学习笔记
 * Javase [https://github.com/shnlili123/note](https://github.com/shnlili123/note)
