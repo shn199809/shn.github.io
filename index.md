@@ -32,4 +32,10 @@
 * 验证码生成通用类 [https://github.com/shnlili123/Util](https://github.com/shnlili123/Util)
 * 基于SSM框架的员工管理系统[https://github.com/shnlili123/SSMSTAFF/tree/master#readme](https://github.com/shnlili123/SSMSTAFF/tree/master#readme)
 
+### 社会实践
+* 养老院献爱心活动
+* 西柏坡革命先烈精神学习实践
 
+### 专业实践
+* 软件工程职业参观学习
+* “关于视频目标全量分析与建模”软件杯
